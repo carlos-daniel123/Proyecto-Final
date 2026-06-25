@@ -22,3 +22,5 @@ Instalarlo es muy simple, solo tienes que bajar el archivo ZIP, descomprimirlo y
 - un bot de discord y su token a la mano
   
 Espero que disfrutes este bot de discord y le des un buen uso, este es el final de este README, muchas gracias por leer!!!
+
+<img width="517" height="355" alt="Camera20260625-165810" src="https://github.com/user-attachments/assets/d26a7a8a-4daa-41b1-aff6-8dd16cb06f10" />
