@@ -20,6 +20,7 @@ Instalarlo es muy simple, solo tienes que bajar el archivo ZIP, descomprimirlo y
 - discord.py
 - python-dotenv (archivo .env con token y un .env.example recomendado)
 - un bot de discord y su token a la mano
+**puedes instalar unas dependencias con "pip install -r requirements.txt" con el requirements.txt que viene**
   
 Espero que disfrutes este bot de discord y le des un buen uso, este es el final de este README, muchas gracias por leer!!!
 
